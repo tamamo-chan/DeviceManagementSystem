@@ -72,7 +72,7 @@ You will need to add the connection string of your database to the function app 
 Ensure that migrations have been applied to this database. This can be done by adding the connection string to the project secrets using the name `ConnectionStrings:DeviceDatabase`.  \
 When deployed, the endpoints can be reached from `https://functionAppName.azurewebsites.net/api/AddDevice?code=APIKey` and `https://functionAppName.azurewebsites.net/api/UpdateDevice?code=APIKey`. Both the real addresses and the keys can be retrieved from the portal if you click one of the APIs in the function app: 
 
-![Function App address and keys](imgs/FunctionAppKeys.png)
+![Function App address and keys](imgs/functionAppKeys.png)
 
 
 ### Input
