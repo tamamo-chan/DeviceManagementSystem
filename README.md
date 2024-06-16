@@ -51,7 +51,7 @@ As an example, you can create a local SQL Express database and put the connectio
     "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
   },
   "ConnectionStrings": {
-    "DeviceDatabase": ""Server=localhost\\SQLEXPRESS;Database=master;Trusted_Connection=True;TrustServerCertificate=True""
+    "DeviceDatabase": "Server=localhost\\SQLEXPRESS;Database=master;Trusted_Connection=True;TrustServerCertificate=True"
   }
 }
 ```
