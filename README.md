@@ -107,3 +107,11 @@ DeviceType and DeviceStatus can also be written as:
     "Status": "Active"
 }
 ```
+
+## Architecture
+
+![Example of possible API architecture](imgs/api_infrastructure.png)
+
+## Flowchart
+
+![Flowchart of a finalized API solution](imgs/flowchart.png)
